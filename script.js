@@ -1,0 +1,1 @@
+console.log("This is one of the ways to implement");
